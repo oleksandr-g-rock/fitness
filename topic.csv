@@ -1,0 +1,61 @@
+13-11-2025,FinOps budget enforcement,Explain how teams can define cloud budgets and enforce limits using automation without blocking delivery
+14-11-2025,Kubernetes autoscaling basics,Describe how autoscaling works and how to tune thresholds for stable workloads
+15-11-2025,CI CD pipeline acceleration,Show methods to reduce build time through caching and dependency optimization
+16-11-2025,Terraform environment structure,Explain how to design a multi environment Terraform layout using modules and clear separation
+17-11-2025,High availability in AWS,Give guidance on building resilient architectures and avoiding single region failure risks
+18-11-2025,Cost anomaly detection,Explain how anomaly detection works and what signals indicate real overspending
+19-11-2025,Blue green deployments,Describe how to release safely with two parallel environments and controlled traffic switching
+20-11-2025,Rollback strategy design,Explain how to create fast reliable rollback paths for critical systems
+21-11-2025,GitOps fundamentals,Describe how Git driven operations improve consistency and reduce misconfigurations
+22-11-2025,Optimizing logging costs,Explain how log retention filtering and aggregation reduce cloud expenses
+23-11-2025,Kubernetes resource requests,Describe how to choose correct CPU and memory values to avoid waste
+24-11-2025,CI CD cost governance,Explain how pipeline steps consume resources and how to measure their efficiency
+25-11-2025,Terraform code review process,Describe how teams can standardize reviews for stability and predictability
+26-11-2025,AWS multi account strategy,Explain why separating workloads into multiple accounts improves security and clarity
+27-11-2025,Cloud storage lifecycle rules,Describe how lifecycle policies reduce long term storage spending
+28-11-2025,Kubernetes RBAC essentials,Explain how to design simple and secure role structures
+29-11-2025,Monitoring signal to noise ratio,Show how to clean alerts and keep only actionable signals
+30-11-2025,Disaster recovery planning,Explain key DR stages such as backup strategy testing and failover execution
+01-12-2025,Pub Sub vs RabbitMQ,Differentiate messaging models and when each becomes optimal
+02-12-2025,Pipeline security checks,Describe how to embed automated security validation into CI CD
+03-12-2025,Optimizing container images,Explain how to shrink image size and improve deployment speed
+04-12-2025,Cost efficient Kubernetes clusters,Describe how to rightsize node pools and use autoscaling efficiently
+05-12-2025,Cloud compliance readiness,Explain what SOC or HIPAA readiness means for infrastructure
+06-12-2025,Terraform state management,Describe safe handling of remote state and versioning
+07-12-2025,Cloud networking basics,Explain key network components such as VPC subnets and routing
+08-12-2025,Alert fatigue reduction,Describe techniques to reduce unnecessary alerts and improve on call health
+09-12-2025,Zero downtime migrations,Explain how to migrate workloads without interruptions
+10-12-2025,Service mesh overview,Describe when service mesh adds value and when it only adds complexity
+11-12-2025,Cost optimization for databases,Explain strategies for rightsizing and choosing storage classes
+12-12-2025,Feature flag deployments,Show how feature flags improve safety during releases
+13-12-2025,AI workload scaling,Explain how to scale inference and training workloads efficiently
+14-12-2025,Git branching strategy,Describe simple branching models that work for DevOps heavy teams
+15-12-2025,Incident response basics,Explain step by step incident handling workflow
+16-12-2025,Optimizing CloudWatch usage,Describe how to reduce metrics and logs waste
+17-12-2025,Multi cloud DR,Explain how to design failover across AWS and GCP
+18-12-2025,Kubernetes node scaling,Describe when to use horizontal vs vertical scaling
+19-12-2025,Secrets management,Explain how to store rotate and audit secrets safely
+20-12-2025,CI CD for microservices,Describe how to structure pipelines for many independent services
+21-12-2025,Cost effective AI pipelines,Explain how to reduce compute and storage usage in ML workflows
+22-12-2025,Terraform module design,Describe how to build reusable predictable modules
+23-12-2025,AWS IAM minimal model,Explain how to create simple safe permission boundaries
+24-12-2025,Log aggregation patterns,Explain how to route logs efficiently for observability
+25-12-2025,Blue green vs rolling update,Compare release strategies with practical tradeoffs
+26-12-2025,Monitoring for Kubernetes,Describe essential metrics and dashboards to track
+27-12-2025,CI CD artifact strategy,Explain how to manage build artifacts versions and retention
+28-12-2025,FinOps culture building,Describe how teams can collaborate to reduce cloud waste
+29-12-2025,Cloud cost forecasting,Explain how to predict cloud spend and detect deviations
+30-12-2025,Kubernetes readiness probes,Describe how probes protect services during updates
+31-12-2025,API gateway design,Explain how to structure APIs for reliability and security
+01-01-2026,Backup validation cycles,Describe how to test backups and measure recovery reliability
+02-01-2026,Node pool optimization,Explain how to combine instance types for efficient clusters
+03-01-2026,Policy as code,Describe how automated policies improve infrastructure governance
+04-01-2026,Reducing CI test flakiness,Explain how unstable tests slow releases and how to fix them
+05-01-2026,Cloud load balancing models,Describe global and regional balancing patterns
+06-01-2026,Service reliability metrics,Explain SLI SLO and SLA in simple form
+07-01-2026,Cost visibility dashboards,Describe how dashboards help teams understand spending
+08-01-2026,Container security basics,Explain scanning vulnerability management and safe base images
+09-01-2026,High throughput pipelines,Describe architectures for heavy data processing
+10-01-2026,Continuous verification,Explain how automated checks validate deployments in production
+11-01-2026,Scalable architecture patterns,Describe patterns that support growth without instability
+
