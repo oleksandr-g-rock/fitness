@@ -1,4 +1,3 @@
-13-11-2025,FinOps budget enforcement,Explain how teams can define cloud budgets and enforce limits using automation without blocking delivery
 14-11-2025,Kubernetes autoscaling basics,Describe how autoscaling works and how to tune thresholds for stable workloads
 15-11-2025,CI CD pipeline acceleration,Show methods to reduce build time through caching and dependency optimization
 16-11-2025,Terraform environment structure,Explain how to design a multi environment Terraform layout using modules and clear separation
