@@ -1,4 +1,5 @@
 ﻿athlete_number,name,distance_meters,moving_time_secons,elapsed_time,total_elevation_gain,type,average_speed,max_speed,average_watts,max_watts,weighted_average_watts,kilojoules,average_heartrate,max_heartrate,elev_high,elev_low,start_date
+27746857,Afternoon Walk,1261.7,1042,1298,17.4,Walk,1.211,2.12,,,,,97.9,107,17.6,0,2025-11-15T15:48:30Z
 27746857,Afternoon Walk,1261.7,1042,1298,17.4,Walk,1.211,2.12,,,,,97.9,107,17.6,0,2025-11-15T13:48:30Z
 27746857,Lunch Run,5047.6,2433,2433,0,Run,2.075,3,,,,,149.6,179,0,0,2025-11-15T11:35:50Z
 27746857,Afternoon Walk,2329.3,1460,2306,26,Walk,1.595,5.949,,,,,106.7,121,23.8,0,2025-11-14T16:29:01Z
