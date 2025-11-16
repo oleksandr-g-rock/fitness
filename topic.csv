@@ -1,4 +1,3 @@
-16-11-2025,High availability in AWS,Give guidance on building resilient architectures and avoiding single region failure risks
 17-11-2025,High availability in AWS,Give guidance on building resilient architectures and avoiding single region failure risks
 18-11-2025,Cost anomaly detection,Explain how anomaly detection works and what signals indicate real overspending
 19-11-2025,Blue green deployments,Describe how to release safely with two parallel environments and controlled traffic switching
