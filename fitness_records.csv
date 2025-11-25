@@ -1,4 +1,5 @@
 ﻿athlete_number,name,distance_meters,moving_time_secons,elapsed_time,total_elevation_gain,type,average_speed,max_speed,average_watts,max_watts,weighted_average_watts,kilojoules,average_heartrate,max_heartrate,elev_high,elev_low,start_date
+27746857,Afternoon Walk,2145.5,1223,1763,11.8,Walk,1.754,6.35,,,,,102.2,121,11.8,0,2025-11-25T16:29:49Z
 27746857,Morning Walk,2227,1439,1492,19.2,Walk,1.548,6.882,,,,,117.8,125,28.6,9.3,2025-11-25T08:35:16Z
 27746857,Afternoon Walk,2263.7,1504,1786,13.2,Walk,1.505,2.5,,,,,107.3,138,13.2,0,2025-11-24T17:07:20Z
 27746857,Morning Walk,2268.1,1430,1793,19,Walk,1.586,6.203,,,,,102.3,119,28.6,9.3,2025-11-24T08:34:04Z
@@ -13,4 +14,3 @@
 27746857,Afternoon Elliptical,0,3543,3543,0,Elliptical,0,0,,,,,114.9,127,0,0,2025-11-18T17:06:25Z
 27746857,Afternoon Walk,3923.1,2531,3018,30.4,Walk,1.55,6.348,,,,,102.3,113,19.2,0,2025-11-18T16:15:52Z
 27746857,Morning Walk,2108.4,1269,1453,28.4,Walk,1.661,2.407,,,,,104,118,24.2,0,2025-11-18T08:34:18Z
-27746857,Afternoon Walk,2785.2,1656,2355,19.4,Walk,1.682,2.327,,,,,102.9,127,16.8,0,2025-11-17T16:57:08Z
