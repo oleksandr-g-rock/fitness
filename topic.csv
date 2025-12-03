@@ -1,5 +1,3 @@
-02-12-2025,Pipeline security checks,Describe how to embed automated security validation into CI CD
-03-12-2025,Optimizing container images,Explain how to shrink image size and improve deployment speed
 04-12-2025,Cost efficient Kubernetes clusters,Describe how to rightsize node pools and use autoscaling efficiently
 05-12-2025,Cloud compliance readiness,Explain what SOC or HIPAA readiness means for infrastructure
 06-12-2025,Terraform state management,Describe safe handling of remote state and versioning
