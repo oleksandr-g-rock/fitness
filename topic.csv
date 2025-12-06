@@ -1,5 +1,3 @@
-05-12-2025,Cloud compliance readiness,Explain what SOC or HIPAA readiness means for infrastructure
-06-12-2025,Terraform state management,Describe safe handling of remote state and versioning
 07-12-2025,Cloud networking basics,Explain key network components such as VPC subnets and routing
 08-12-2025,Alert fatigue reduction,Describe techniques to reduce unnecessary alerts and improve on call health
 09-12-2025,Zero downtime migrations,Explain how to migrate workloads without interruptions
